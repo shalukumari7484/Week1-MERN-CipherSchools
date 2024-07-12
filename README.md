@@ -1,1 +1,1 @@
-# WEEK1-MERN01-CipherSchools
+# WEEK1-MERN-CipherSchools
